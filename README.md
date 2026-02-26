@@ -96,7 +96,7 @@ python -m streamlit run app.py
 
 The application will open automatically in your browser.
 
-## 👩‍💻 Abou Me
+## 👩‍💻 About Me
 
 I’m Salma, a Computer Science Engineering student graduating in 2027.
 I love building interactive projects!
